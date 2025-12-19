@@ -69,6 +69,14 @@ number_colors = {
     7: (85, 85, 85),     # gray
     8: (0, 0, 0),        # black
 }
+color_hint = (50,205,50)
+color_hint_button = (100,100,100)
+
+#힌트 버튼 위치(상단바 오른쪽 적당한 곳)
+hint_button_x = width - 220
+hint_button_y = 35
+hint_button_w = 80
+hint_button_h =25
 
 # Text / UI
 font_name = None  # default pygame font
