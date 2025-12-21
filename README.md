@@ -1,6 +1,6 @@
 
-- **Project Manager**: 심서진(Sim Seo Jin)
-- **Contributor**: 이재민(Lee jae min)
+- **Project Manager**: 심서진(Sim SeoJin)
+- **Contributor**: 이재민(Lee jaemin)
 
 ---
 
@@ -19,10 +19,10 @@
 - **기능 설명**: 게임 시작 후 게임을 정지하는 기능을 추가했습니다..
 - **상세**: ESC를 누르게 되면 게임이 저징되고 좌클릭을 누를 시 멈춰있던 게임이 시작됩니다. 
 - **스크린샷**: 
-<img width="569" height="270" alt="image" src="https://github.com/user-attachments/assets/f149da17-39bc-4d4a-a1ea-cc2327de0e9a" />
+<img width="470" height="377" alt="image" src="https://github.com/user-attachments/assets/cb44f377-0cb2-4549-9513-5d6952293265" />
 <img width="486" height="355" alt="image" src="https://github.com/user-attachments/assets/bccbbf97-7dfd-45a1-aabb-5cf21b87997a" />
 
-### 3. 셀에 하이라이트 기능 추가. (#5)
+### 3. 셀 하이라이트 기능 추가. (#5)
 - **기능 설명**: 닫힌 셀에 마우스 커서가 위치하면 셀이 강조되는 기능을 추가했습니다. 
 - **상세**: 열린 셀에선 강조되지 않고 오로지 닫힌 셀에서만 강조가 됩니다.
 - **스크린샷**: 
