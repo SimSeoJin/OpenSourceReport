@@ -1,6 +1,6 @@
 
 - **Project Manager**: 심서진(Sim SeoJin)
-- **Contributor**: 강재권(Gang Jaekwon)
+- **Contributor**: 강재권(Kang Jaekwon
 
 ---
 
